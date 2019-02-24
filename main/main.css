@@ -1,0 +1,13 @@
+.list-item-link {
+    color: red;
+    cursor: pointer;
+
+}
+
+.image-link{
+    cursor: pointer;
+}
+
+.admin-form-class{
+    display: block;
+}
